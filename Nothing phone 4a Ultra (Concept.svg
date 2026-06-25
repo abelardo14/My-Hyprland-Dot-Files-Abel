@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.28 841.89">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 42.14px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st1 {
+        font-size: 30.72px;
+      }
+
+      .st2 {
+        font-size: 12px;
+      }
+
+      .st3 {
+        fill: #fff;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1" data-name="Слой_1">
+    <rect class="st3" x="88.8" y="23.35" width="434.85" height="798.08" rx="70.79" ry="70.79"/>
+    <rect class="st3" x="113.26" y="46.71" width="384.48" height="243.38" rx="50" ry="50"/>
+    <circle class="st3" cx="177.99" cy="115.52" r="52.88"/>
+    <rect class="st3" x="248.49" y="66.37" width="98.3" height="98.3" rx="20.7" ry="20.7"/>
+    <rect class="st3" x="125.12" y="180.65" width="227.03" height="98.3" rx="42.8" ry="42.8"/>
+    <circle class="st3" cx="458.09" cy="114.49" r="4.04"/>
+    <rect class="st3" x="445.83" y="205.29" width="24.51" height="49.02" rx="12.25" ry="12.25"/>
+    <path class="st3" d="M88.8,317.55h0v68.3h0c-2.46,0-4.45-1.99-4.45-4.45v-59.4c0-2.46,1.99-4.45,4.45-4.45Z"/>
+    <path class="st3" d="M523.65,279.15h0c2.46,0,4.45,1.99,4.45,4.45v47.36c0,2.46-1.99,4.45-4.45,4.45h0v-56.26h0Z"/>
+    <path class="st3" d="M523.65,341.4h0c2.46,0,4.45,1.99,4.45,4.45v47.36c0,2.46-1.99,4.45-4.45,4.45h0v-56.26h0Z"/>
+    <path class="st3" d="M88.8,393.58h0v38.23h0c-3.55,0-6.43-2.88-6.43-6.43v-25.37c0-3.55,2.88-6.43,6.43-6.43Z"/>
+    <text class="st1" transform="translate(141.23 126.24) scale(.67 1)"><tspan x="0" y="0">Основа</tspan></text>
+    <text class="st1" transform="translate(266.27 126.24) scale(.67 1)"><tspan x="0" y="0">Ширик</tspan></text>
+    <text class="st0" transform="translate(134.94 243.6) scale(1.05 1)"><tspan x="0" y="0">2 Телевика</tspan></text>
+    <text class="st2" transform="translate(445.83 105.53)"><tspan x="0" y="0">Микро</tspan></text>
+    <text class="st2" transform="translate(445.83 203.08)"><tspan x="0" y="0">Фонарик</tspan></text>
+    <text class="st2" transform="translate(366.46 62.65)"><tspan x="0" y="0">Glyph bar 2.0</tspan></text>
+    <text class="st2" transform="translate(90.31 348.7)"><tspan x="0" y="0">Кнопка «питание»</tspan></text>
+    <text class="st2" transform="translate(91.22 412.69)"><tspan x="0" y="0">Essential Button</tspan></text>
+    <text class="st2" transform="translate(423.02 338.93)"><tspan x="0" y="0" xml:space="preserve"> Кнопки громкости</tspan></text>
+  </g>
+  <g id="_Слой_2" data-name="Слой_2">
+    <rect class="st3" x="366.86" y="69.37" width="64.25" height="205.32"/>
+    <rect class="st3" x="366.86" y="253.16" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="253.16" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="253.16" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="232.9" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="232.9" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="232.9" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="212.63" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="212.63" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="212.63" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="192.37" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="192.37" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="192.37" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="172.1" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="172.1" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="172.1" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="151.84" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="151.84" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="151.84" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="131.58" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="131.58" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="131.58" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="111.31" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="111.31" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="111.31" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="89.64" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="89.64" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="89.64" width="21.42" height="21.42"/>
+    <rect class="st3" x="366.86" y="69.37" width="21.42" height="21.42"/>
+    <rect class="st3" x="388.28" y="69.37" width="21.42" height="21.42"/>
+    <rect class="st3" x="409.7" y="69.37" width="21.42" height="21.42"/>
+  </g>
+</svg>
